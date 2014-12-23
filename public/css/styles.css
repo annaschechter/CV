@@ -9,7 +9,7 @@ body {
 #profile {
   display: inline-table;
   width: 29%;
-  background-image: url(./images/background.png);
+  background-image: url(../images/background.png);
   padding: 2%;
 
 }
@@ -61,10 +61,20 @@ p {
 #main {
   display: inline-table;
   width: 62.4%;
-  background-color: grey;
-  padding: 2%;
+/*  background-color: grey;*/
+/*  padding: 2%;*/
 }
 
 #main p {
-  padding-left: 0%;
+  padding-left: 3%;
+  padding-top: 2%;
+  line-height: 120%;
+}
+
+.heading-tag {
+  font-family: 'Hammersmith One', sans-serif;
+  padding-bottom: 1%;
+  padding-top: 1%;
+  font-size: 2vw;
+  background-color: grey;
 }
