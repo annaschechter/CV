@@ -9,7 +9,7 @@ body {
 #profile {
   display: inline-table;
   width: 29%;
-  background-color: #6699ff;
+  background-color: #ffefcd;
   padding: 2%;
 }
 
@@ -85,7 +85,7 @@ p {
 }
 
 .education {
-  background-color: #b3ccff;
+  background-color: #cdddff;
   padding: 0%;
   margin-top: 2%;
   margin-bottom: 2%;
@@ -113,7 +113,7 @@ td {
 }
 
 .skill {
-  background-color: #b3ccff;
+  background-color: #cdddff;
   border: solid 1px white;
   padding: 0.8%;
   margin-left: 1%;
@@ -121,7 +121,7 @@ td {
 }
 
 aside {
-  background-color: #b3ccff;
+  background-color: #cdddff;
   padding-top: 2%;
   margin-top: 2%;
 }
