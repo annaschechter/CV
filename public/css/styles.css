@@ -9,7 +9,7 @@ body {
 #profile {
   display: inline-table;
   width: 29%;
-  background-image: url(../background.png);
+  background-image: url(./images/background.png);
   padding: 2%;
 
 }
@@ -37,8 +37,16 @@ body {
   padding-bottom: 20%;
 }
 
-.tag {
+.logo {
+  display: inline-table;
   padding-left: 25%;
+  height: 3vw;
+  width: auto;
+}
+
+.tag {
+  display: inline-table;
+  padding-left: 2%;
   padding-bottom: 3%;
   font-family: 'Hammersmith One', sans-serif;
   font-size: 1.6vw;
