@@ -7,7 +7,7 @@ body {
 }
 
 #profile {
-  display: inline-table;
+  display: table-cell;
   width: 29%;
   background-color: #ffefcd;
   padding: 2%;
@@ -59,8 +59,9 @@ p {
 }
 
 #main {
-  display: inline-table;
+  display:table-cell;
   width: 62.4%;
+  height: 20vw;
 }
 
 #main p {
