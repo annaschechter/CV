@@ -3,13 +3,15 @@
 
 body {
   font-family: 'PT Sans Caption', sans-serif;
-  margin: 2%;
+  margin: 3%;
 }
 
 #profile {
   display: table-cell;
   width: 29%;
-  background-color: #ffefcd;
+  margin-right: 1%;
+  background: rgba(255, 239, 207, 1);
+  background-color: rgba(255, 239, 207, 1);
   padding: 2%;
 }
 
@@ -69,6 +71,7 @@ p {
   padding-top: 2%;
   line-height: 125%;
   padding-bottom: 2%;
+  margin-left: 1vw;
 }
 
 .heading-tag {
@@ -86,11 +89,13 @@ p {
 }
 
 .education {
+
   background-color: #cdddff;
   padding: 0%;
   margin-top: 2%;
   margin-bottom: 2%;
   padding-bottom: 2%;
+  margin-left: 1vw;
 }
 
 .job-title {
@@ -103,10 +108,15 @@ b {
   font-size: 1.5vw;
 }
 
+table {
+  margin-left: 1vw;
+}
+
 td {
-  width: 30%;
+  width: 30vw;
   padding: 4%;
-  padding-left: 3%
+  padding-left: 3%;
+  font-size: 1.34vw;
 }
 
 #skills p {
@@ -125,6 +135,7 @@ aside {
   background-color: #cdddff;
   padding-top: 2%;
   margin-top: 2%;
+  margin-left: 1vw;
 }
 
 aside p {
